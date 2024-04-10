@@ -39,3 +39,8 @@ Phrases:
 --------
 
 * Basic communication Phrases
+
+Resources:
+----------
+
+* https://lyricstranslate.com
