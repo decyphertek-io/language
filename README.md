@@ -1,0 +1,4 @@
+Resources:
+==========
+
+* https://lyricstranslate.com
