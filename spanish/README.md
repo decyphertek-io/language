@@ -21,6 +21,11 @@ Grammar:
 * Verbs
 * Sentence Structure
 
+Latin:
+------
+
+* Latin root word
+
 Movies:
 -------
 
