@@ -6,7 +6,7 @@ Learning spanish by listening, reading, and studying grammar.
 Books:
 ------
 
-* Work in Progress
+* Work in Progress ...
 
 Grammar:
 --------
