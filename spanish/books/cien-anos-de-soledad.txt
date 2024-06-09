@@ -93,7 +93,7 @@ Translation and Grammar:
 - gitanos - gypsies
 - carpa - tent
 - alboroto - uproar
-- pitos - flutes
+- pitos - whistles
 - timbales - drums
 - inventos - inventions
 - gitano - gypsy
